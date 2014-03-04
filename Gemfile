@@ -15,6 +15,7 @@ gem 'coffee-rails', '~>4.0.0'
 gem 'uglifier', '1.2.3'
 end
 
+gem 'turbolinks'
 gem 'jquery-rails'
 
 group :test do
